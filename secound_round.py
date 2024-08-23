@@ -34,3 +34,6 @@ elif classificacao > 2 and classificacao < 5:
 else: 
     print('Você é o ASSASSINO.')
 
+#nao alterar variaveis.
+
+
